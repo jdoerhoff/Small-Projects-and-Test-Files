@@ -1,0 +1,151 @@
+#container {
+        width: 100%;
+        height: 100%;
+        background-color:#051342;
+    }
+    #wrapper {
+        width: 100%;
+        height: 100%;
+        padding-left: 5px;
+        margin-top: 5px;
+        
+    }
+    #header {
+    }
+     #quickLinks {	
+        float: left;
+        padding-left:5px;
+        color: #FFFFFF;
+        width: 100%;
+        height: 30px;
+        background: #404869;		
+    }
+    #quickLinks a {
+        padding-left: 2px;
+        width: auto;
+        color: #FFFFFF;
+        font: 1em Verdana, Geneva, sans-serif;
+        text-decoration: none;	
+        letter-spacing: 0px;
+    }
+    #quickLinks a:link {				/* unvisited link */
+        color:#FFFFFF; 
+        text-decoration:none;
+    }    
+    #quickLinks a:visited {				/* visited link */
+        color:#FFFFFF; 
+        text-decoration:none;} 
+    #quickLinks a:hover {				/* mouse over link */
+        color:#FFFFFF; 
+        text-decoration:underline;}   
+    #quickLinks a:active {				/* selected link */
+        color:#FFFFFF; 
+        text-decoration:underline;}
+/*
+    #body {
+        float: left;
+        width: 95%;
+        height: 600px;
+        background: #FFFFFF ;	
+        color: #fff;	
+    }
+    #mainLinks {	
+        width: 100%;
+        height: 100px;	
+        margin-left: 10px;	
+    }
+    #mainLinksCells {
+        margin: 2px;
+        width: 32%;
+        float: left;
+        height: 53px;
+        text-align: center;
+        padding-top: 20px;
+        background-color:#051342;
+    }
+    #mainLinksCells a {
+        vertical-align:middle;
+        text-align: center;
+        color: #DDE2F4;
+        font: 1em Verdana, Geneva, sans-serif;
+        font-weight: bold;
+        text-decoration: none;	
+        letter-spacing: 0px;
+    }
+    #mainLinksCells a:link {				
+        color:#DDE2F4; 
+        text-decoration:none;
+    }    
+    #mainLinksCells a:visited {				
+        color:#DDE2F4; 
+        text-decoration:none;} 
+    #mainLinksCells a:hover {				
+        color:#DDE2F4; 
+        text-decoration:underline;}   
+    #mainLinksCells a:active {				
+        color:#DDE2F4; 
+        text-decoration:underline;}  
+        
+    #mainBody {
+        float: left;
+        width: 95%;
+        height: 600px;	
+        padding: 0;	
+        margin-left: 0px;
+    }
+    #leftColumn {
+        width: 30%;
+        height: 100%;
+        margin-left: 10px;
+        float: left;
+    }
+    #leftColumnCell {
+        margin-left:20px;
+        color:#E0E0E0; 
+        font: bold 1em Verdana, Geneva, sans-serif;
+    }
+    #leftColumnCellDefault {
+        margin-left:20px;
+        color:#000000; 
+        font: bold 1em Verdana, Geneva, sans-serif;
+    }
+    #leftColumnCell a:link {				
+        color:#5B6FB7; 
+        text-decoration:none;
+    }    
+    #leftColumnCell a:visited {		
+        color:#5B6FB7; 
+        text-decoration:none;} 
+    #leftColumnCell a:hover {				
+        color:#5B6FB7; }   
+    #leftColumnCell a:active {				
+        color:#5B6FB7; }  
+        
+    #rightColumn {
+        float: left;
+        width: 65%;
+        height: 100%;
+    }
+    #rightColumnCellHead {
+        margin-left:30px;
+        color:#354880; 
+        font: bold 1.5em Georgia, serif;
+        margin-top: 50px;
+    }
+    #rightColumnCellBody {
+        margin-left:30px;
+        color:#354880; 
+        font: 1.2em Verdana, Geneva, sans-serif;
+        margin-top: 4px;
+    }
+    #footer {
+        float: left;
+        width: 95%;
+        height: 40px;
+        color: #fff;
+        vertical-align: top;
+        font: 1em Verdana, Geneva, sans-serif;
+        margin-left: 10px;
+        margin-top: 25px;
+    }
+*/
